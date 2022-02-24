@@ -2,7 +2,7 @@
   "poolList": [
     {
       "poolContractAddress": "0xd6afb9afeeb10a5ac3b0015335e7d1f20c711979",
-      "projectName": "Duckie Land",
+      "projectName": "Test Project",
       "logoUrl": "https://i.postimg.cc/MGt1ZcmM/melandai-1.jpg",
       "poolName": "Guaranteed Pool",
 
@@ -31,6 +31,7 @@
       "accessType": "Whitelist",
 
       "earnTokenIntroduce": "Dx Spot is an application based crypto trading bot platform that can place trades 24",
+      "earnTokenDetailText": "Dx Spot is an artificial intelligence (AI) trading platform for cryptocurrency exchanges, on the Playstore, it’s now possible to use and download.Dx Spot creates DXS Tokens for its ecosystem’s tools.In the metaverse, Dx Spot will also work on DeFi, NFT, Gamefi, and AI initiatives.DXS tokens can be used for membership fees, fuel gas top-ups, game character purchases, and staking in the Dx Spot application ecosystem.",
       "vestingSchedule": "20% at TGE, then unlock monthly for 4 months."
     }
   ]
