@@ -1,38 +1,3 @@
 {
-  "poolList": [
-    {
-      "poolContractAddress": "0xd6afb9afeeb10a5ac3b0015335e7d1f20c711979",
-      "projectName": "Test Project",
-      "logoUrl": "https://i.postimg.cc/MGt1ZcmM/melandai-1.jpg",
-      "poolName": "Test Guaranteed Pool",
-
-      "salePrice": "TEst 1MMETA = 0.5BUSD",
-      "IGOStarts": "Test February 18th,2PM UTC",
-      "IGOEnds": "Test February 18th,5PM UTC",
-      "ClaimStarts": "Test February 22th,15:30PM UTC",
-
-      "network": "BSC",
-      "stakeTokenName": "Test BUSD",
-      "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-      "earnTokenName": "Test DXS",
-      "earnTokenAddress": "0xbBBcB350C64Fe974e5C42A55c7070644191823f3",
-      "totalSupply": "Test",
-      "decimals": "18",
-
-      "website": "https://Test",
-      "twitter": "https://Test",
-      "telegram": "https://Test",
-      "medium": "https://Test",
-
-      "isDisplayClaim": true,
-      "isDisplayRefund": false,
-      "tokenDistribution": "Test",
-      "hardCap": "Test",
-      "accessType": "Test",
-
-      "earnTokenIntroduce": "Test",
-      "earnTokenDetailText": "Testssd dsd",
-      "vestingSchedule": "Tests dsdsds"
-    }
-  ]
+  "poolList": []
 }
