@@ -3,7 +3,7 @@
     {
       "poolContractAddress": "0xbaa23ba83632205f287555aeb58e216a475fcb24",
       "projectName": "Lunapad Community NFT",
-      "logoUrl": "https://ibb.co/vhbCjCw",
+      "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/lunapad/community.jpg",
       "poolName": "Community NFT",
 
       "salePrice": "1Community NFT =100BUSD",
@@ -37,7 +37,7 @@
     {
       "poolContractAddress": "0x1d2ac8ab1bc84c6d5717916211f863892ad67395",
       "projectName": "Lunapad Diamond NFT",
-      "logoUrl": "https://ibb.co/yscL4SM",
+      "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/lunapad/diamond.jpg",
       "poolName": "Diamond NFT",
 
       "salePrice": "1Diamond NFT = 5000BUSD",
@@ -71,7 +71,7 @@
     {
       "poolContractAddress": "0x4b42201b88b389f6447525c64c53676faa1b9c6e",
       "projectName": "Lunapad Gold NFT",
-      "logoUrl": "https://ibb.co/dknfztb",
+      "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/lunapad/gold.jpg",
       "poolName": "Gold NFT",
 
       "salePrice": "1Gold NFT = 1000BUSD",
@@ -105,7 +105,7 @@
     {
       "poolContractAddress": "0x80eb6624facfafb5cfe335eb900c6db038b0a02f",
       "projectName": "Lunapad Platinum NFT",
-      "logoUrl": "https://ibb.co/THzqXrq",
+      "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/lunapad/platinum.jpg",
       "poolName": "Platinum NFT",
 
       "salePrice": "1Platinum NFT = 2000BUSD",
@@ -139,7 +139,7 @@
     {
       "poolContractAddress": "0xd362aa56deb972c170cb815795432eb5264f256f",
       "projectName": "Lunapad Supporters NFT",
-      "logoUrl": "https://ibb.co/BrsHJh9",
+      "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/lunapad/supporter.jpg",
       "poolName": "Supporters NFT",
 
       "salePrice": "1Supporters NFT =400BUSD",
