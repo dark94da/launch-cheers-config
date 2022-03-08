@@ -180,6 +180,7 @@
       "IGOStarts": "March 7th,12AM UTC",
       "IGOEnds": "March 10th,2PM UTC",
       "ClaimStarts": "TBA",
+      "minPricePerToken": "2",
 
       "network": "Polygon",
       "stakeTokenName": "BUSD",
