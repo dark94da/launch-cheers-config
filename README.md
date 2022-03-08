@@ -12,6 +12,7 @@ sample config
            "IGOStarts": "February 18th,2PM UTC",
            "IGOEnds": "February 18th,5PM UTC",
            "ClaimStarts": "February 22th,15:30PM UTC",
+           "minPricePerToken": "3",  // 如果有这个值则限制金额只能为这个值的整数倍
      
            "network": "BSC",
            "stakeTokenName": "BUSD",
