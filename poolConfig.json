@@ -7,6 +7,7 @@
       "poolName": "Community NFT",
 
       "salePrice": "1Community NFT =100BUSD",
+      "minPricePerToken":"100",
       "IGOStarts": "March 9th,2PM UTC",
       "IGOEnds": "March 10th,2PM UTC",
       "ClaimStarts": "TBA",
@@ -41,6 +42,7 @@
       "poolName": "Diamond NFT",
 
       "salePrice": "1Diamond NFT = 5000BUSD",
+      "minPricePerToken":"5000",
       "IGOStarts": "March 9th,2PM UTC",
       "IGOEnds": "March 10th,2PM UTC",
       "ClaimStarts": "TBA",
@@ -75,6 +77,7 @@
       "poolName": "Gold NFT",
 
       "salePrice": "1Gold NFT = 1000BUSD",
+      "minPricePerToken":"1000",
       "IGOStarts": "March 9th,2PM UTC",
       "IGOEnds": "March 10th,2PM UTC",
       "ClaimStarts": "TBA",
@@ -109,6 +112,7 @@
       "poolName": "Platinum NFT",
 
       "salePrice": "1Platinum NFT = 2000BUSD",
+      "minPricePerToken":"2000",
       "IGOStarts": "March 9th,2PM UTC",
       "IGOEnds": "March 10th,2PM UTC",
       "ClaimStarts": "TBA",
@@ -143,6 +147,7 @@
       "poolName": "Supporters NFT",
 
       "salePrice": "1Supporters NFT =400BUSD",
+      "minPricePerToken":"400",
       "IGOStarts": "March 9th,2PM UTC",
       "IGOEnds": "March 10th,2PM UTC",
       "ClaimStarts": "TBA",
