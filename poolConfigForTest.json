@@ -1,3 +1,38 @@
 {
-  "poolList": []
+  "poolList": [
+    {
+       "poolContractAddress": "0x4a57e6ac44945b87c1ec773462d47027c62610a0",
+       "projectName": "Test Projects",
+       "logoUrl": "https://i.postimg.cc/MGt1ZcmM/melandai-1.jpg",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "1TFI = 0.2BUSD",
+       "IGOStarts": "March 14th,2AM UTC",
+       "IGOEnds": "March 14th,12PM UTC",
+       "ClaimStarts": "March 14th,12PM UTC",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "TFI",
+       "earnTokenAddress": "0x7565ab68d3f9dadff127f864103c8c706cf28235",
+       "totalSupply": "100000000",
+       "decimals": "18",
+ 
+       "website": "https://duckie.land/",
+       "twitter": "https://twitter.com/duckienft",
+       "telegram": "https://t.me/duckienft_global",
+       "medium": "https://medium.com/@duckienft",
+ 
+       "isDisplayClaim": true,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Claim",
+       "hardCap": "2",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "Dx Spot is an application based crypto trading bot platform that can place trades 24",
+       "earnTokenDetailText": "Dx Spot is an artificial intelligence (AI) trading platform for cryptocurrency exchanges, on the Playstore, it’s now possible to use and download.Dx Spot creates DXS Tokens for its ecosystem’s tools.In the metaverse, Dx Spot will also work on DeFi, NFT, Gamefi, and AI initiatives.DXS tokens can be used for membership fees, fuel gas top-ups, game character purchases, and staking in the Dx Spot application ecosystem.",
+       "vestingSchedule": "10% at TGE, then unlock monthly for 4 months."
+    }
+  ]
 }
