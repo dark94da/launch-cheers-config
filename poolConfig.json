@@ -1,4 +1,72 @@
 {
   "poolList": [
+    {
+       "poolContractAddress": "0x2cb6436e186ac83dc1b674a418a08f03085656c4",
+       "projectName": "GoldeFy #1",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/goldefy/goldefy.png",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "1GOD = 0.12BUSD",
+       "IGOStarts": "March 15th,8AM UTC",
+       "IGOEnds": "March 15th,11AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "GOD",
+       "earnTokenAddress": "0x2Aaa5cb023cf458E7dFa765FD48b64Cd95995ab7",
+       "totalSupply": "270000000",
+       "decimals": "18",
+ 
+       "website": "https://goldefy.com/",
+       "twitter": "https://twitter.com/Goldefy_",
+       "telegram": "https://t.me/GoldeFyOfficial",
+       "medium": "https://medium.com/@GoldeFy",
+ 
+       "isDisplayClaim": true,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Claim",
+       "hardCap": "30000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "earnTokenDetailText": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "vestingSchedule": "10% at TGE, then 30% for month 2,3, 4."
+  },
+  {
+       "poolContractAddress": "0x72caba941fdadf3ab7bf1c1e628bb2b81c31a8a2",
+       "projectName": "GoldeFy #2",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/goldefy/goldefy.png",
+       "poolName": "Staker FCFS Pool",
+
+       "salePrice": "1GOD = 0.12BUSD",
+       "IGOStarts": "March 15th,11:30AM UTC",
+       "IGOEnds": "March 15th,2:30PM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "GOD",
+       "earnTokenAddress": "0x2Aaa5cb023cf458E7dFa765FD48b64Cd95995ab7",
+       "totalSupply": "270000000",
+       "decimals": "18",
+ 
+       "website": "https://goldefy.com/",
+       "twitter": "https://twitter.com/Goldefy_",
+       "telegram": "https://t.me/GoldeFyOfficial",
+       "medium": "https://medium.com/@GoldeFy",
+ 
+       "isDisplayClaim": true,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Claim",
+       "hardCap": "30000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "earnTokenDetailText": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
+       "vestingSchedule": "10% at TGE, then 30% for month 2,3, 4."
+   }
   ]
 }
