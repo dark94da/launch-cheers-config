@@ -67,6 +67,40 @@
        "earnTokenIntroduce": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
        "earnTokenDetailText": "GoldeFy was coined from 'Gold' and 'DeFi' but the whole concept was inspired from the movie 'AVATAR'. It is decentralized block-chain based Earn-While-In-Sleep(EWIS) metaverse game where you can buy NFT characters and NFT estate, breed for new NFT character, Character enhancement, mine resources and gems for actual profit.",
        "vestingSchedule": "10% at TGE, then 30% for month 2,3, 4."
+   },
+     {
+       "poolContractAddress": "0x3f48b511a49daba0a169a7a4fd639432ef2bfa44",
+       "projectName": "DeFiYield App",
+       "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/defiyield/avatar.png",
+       "poolName": "Staker FCFS Pool",
+
+       "salePrice": "1DEFI = 0.24BUSD",
+       "IGOStarts": "March 18th,8AM UTC",
+       "IGOEnds": "March 18th,11AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "DEFI",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1000000000",
+       "decimals": "18",
+ 
+       "website": "https://defiyield.app/",
+       "twitter": "https://twitter.com/defiyield_app",
+       "telegram": "https://t.me/defiyield_app",
+       "medium": "https://blog.defiyield.app/",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "3325",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "Retail investors want access to high yielding products found in DeFi space; Stable coins, Yield farming, Staking, any combination of tools available. However, these tools require significant time, effort and expertise to optimally utilize. Most people need an easier solution for their basic financial needs, this is where the DeFiYield App comes to play.",
+       "earnTokenDetailText": "DeFiYield is your Gateway to DeFi, thanks to its innovative suite asset management tools and other first-class features offered to users to help them navigate in the space of blockchain which is the most explosively growing, and thus the most risky and confusing market and technology of the recent decades.",
+       "vestingSchedule": "9 months linear vesting."
    }
   ]
 }
