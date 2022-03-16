@@ -169,6 +169,40 @@
        "earnTokenIntroduce": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
        "earnTokenDetailText": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
        "vestingSchedule": "7d initial cliff, then 7.5%, then after 45d distr. over 11 months."
+   },
+    {
+       "poolContractAddress": "0xa060e84480f672eff53fa39d250ebe9be1923575",
+       "projectName": "MetaFighter #2",
+       "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/metafighter/mflogo.jpg",
+       "poolName": " Staker FCFS Pool",
+
+       "salePrice": "1MF = 0.01BUSD",
+       "IGOStarts": "March 21th,11:30AN UTC",
+       "IGOEnds": "March 21th,2:30PM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "MF",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "1500000000",
+       "decimals": "18",
+ 
+       "website": "http://www.metafighter.com/",
+       "twitter": "https://twitter.com/MetaFighter_NFT",
+       "telegram": "https://t.me/metafighter_official",
+       "medium": "https://medium.com/@metafighter",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "50000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
+       "earnTokenDetailText": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
+       "vestingSchedule": "7d initial cliff, then 7.5%, then after 45d distr. over 11 months."
    }
   ]
 }
