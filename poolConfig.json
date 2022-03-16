@@ -24,7 +24,7 @@
        "telegram": "https://t.me/GoldeFyOfficial",
        "medium": "https://medium.com/@GoldeFy",
  
-       "isDisplayClaim": true,
+       "isDisplayClaim": false,
        "isDisplayRefund": false,
        "tokenDistribution": "Claim",
        "hardCap": "30000",
@@ -58,7 +58,7 @@
        "telegram": "https://t.me/GoldeFyOfficial",
        "medium": "https://medium.com/@GoldeFy",
  
-       "isDisplayClaim": true,
+       "isDisplayClaim": false,
        "isDisplayRefund": false,
        "tokenDistribution": "Claim",
        "hardCap": "30000",
@@ -126,7 +126,7 @@
        "telegram": "https://t.me/GoldeFyOfficial",
        "medium": "https://medium.com/@GoldeFy",
  
-       "isDisplayClaim": true,
+       "isDisplayClaim": false,
        "isDisplayRefund": false,
        "tokenDistribution": "Claim",
        "hardCap": "15704",
