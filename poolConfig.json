@@ -69,7 +69,7 @@
        "vestingSchedule": "10% at TGE, then 30% for month 2,3, 4."
    },
      {
-       "poolContractAddress": "0x3f48b511a49daba0a169a7a4fd639432ef2bfa44",
+       "poolContractAddress": "0x0bd409bd33ae9a3b1ba03f108caa2412fb1771b4",
        "projectName": "DeFiYield App",
        "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/defiyield/avatar.png",
        "poolName": "Staker FCFS Pool",
@@ -100,7 +100,7 @@
  
        "earnTokenIntroduce": "Retail investors want access to high yielding products found in DeFi space; Stable coins, Yield farming, Staking, any combination of tools available. However, these tools require significant time, effort and expertise to optimally utilize. Most people need an easier solution for their basic financial needs, this is where the DeFiYield App comes to play.",
        "earnTokenDetailText": "DeFiYield is your Gateway to DeFi, thanks to its innovative suite asset management tools and other first-class features offered to users to help them navigate in the space of blockchain which is the most explosively growing, and thus the most risky and confusing market and technology of the recent decades.",
-       "vestingSchedule": "9 months linear vesting."
+       "vestingSchedule": "9 months linear vesting"
    },
       {
        "poolContractAddress": "0x6ee84f83bd34ae26679ef9d88f4a036381634e86",
