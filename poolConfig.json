@@ -197,7 +197,7 @@
        "isDisplayClaim": false,
        "isDisplayRefund": false,
        "tokenDistribution": "Airdrop",
-       "hardCap": "50000",
+       "hardCap": "44505",
        "accessType": "Whitelist",
  
        "earnTokenIntroduce": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
@@ -212,7 +212,7 @@
 
        "salePrice": "1MF = 0.01BUSD",
        "IGOStarts": "March 21th,3PMUTC",
-       "IGOEnds": "March 21th,7PM UTC",
+       "IGOEnds": "March 21th,9PM UTC",
        "ClaimStarts": "TBA",
  
        "network": "BSC",
