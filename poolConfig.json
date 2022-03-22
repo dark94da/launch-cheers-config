@@ -483,7 +483,7 @@
        "poolName": "Guaranteed Pool",
 
        "salePrice": "1CANDY = 0.09BUSD",
-       "IGOStarts": "March 24th,8AMUTC",
+       "IGOStarts": "March 24th,8AM UTC",
        "IGOEnds": "March 24th,11AM UTC",
        "ClaimStarts": "TBA",
  
@@ -517,7 +517,7 @@
        "poolName": " Staker FCFS Pool",
 
        "salePrice": "1CANDY = 0.09BUSD",
-       "IGOStarts": "March 24th,11:30AMUTC",
+       "IGOStarts": "March 24th,11:30AM UTC",
        "IGOEnds": "March 24th,2:30PM UTC",
        "ClaimStarts": "TBA",
  
@@ -543,6 +543,75 @@
        "earnTokenIntroduce": "Sugar Kingdom is not just a game for those who are blockchain users.But it’s a game that could introduce blockchain to millions of players.",
        "earnTokenDetailText": "Besides enjoying an addictive and immersive gameplay, players are the real owners of the items inside the game, and they are able to exchange them with other players and obtain real, attractive and significant rewards according to their total play time. Later, they can invest these earnings in the different economic systems that coexist within the platform. ",
        "vestingSchedule": "6% at TGE, 4 months cliff, then 12% per month."
+   },
+     {
+       "poolContractAddress": "0xa20dc514091cd6be5aea0b924d192e9d1a6435b4",
+       "projectName": "Fight of the Ages",
+       "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/fota.png",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "1FOTA = 0.15BUSD",
+       "IGOStarts": "March 25th,8AM UTC",
+       "IGOEnds": "March 25th,11AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "FOTA",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "7000000000",
+       "decimals": "18",
+ 
+        "website": "https://fota.io/", 
+        "twitter": "https://twitter.com/fightoftheages", 
+        "telegram": "https://t.me/fota_channel", 
+        "medium": "https://medium.com/search?source=home----------------------------------------&q=Fight+of+the+Ages",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "7000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "FOTA is a Triple-A MOBA Game project (based in Singapore) with a fantasy universe inhabited by many races throughout the universe. In the world of FOTA, NFT Technology is optimized so that users can feel the possibility of owning valuable digital assets during the journey.",
+       "earnTokenDetailText": "FOTA is more than just a MOBA game platform, the development team has also introduced economic mechanisms and democracies through the DAO with the vision of turning this Metaverse platform into an ever-more realistic universe through integrating Microsoft Mesh (a Microsoft Corporation branch pioneering in creating the most immersive Metaverse experience).",
+       "vestingSchedule": "10% unlocked 7 days after IDO, then weekly vesting for 12 months (airdrop method)."
+   },
+     {
+       "poolContractAddress": "0xa9458aba7a920076800d4fea0947177e73d688d8",
+       "projectName": " Fight of the Ages #2",
+       "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/fota.png",
+       "poolName": " Staker FCFS Pool",
+
+       "salePrice": "1FOTA = 0.15BUSD",
+       "IGOStarts": "March 25th,11:30AM UTC",
+       "IGOEnds": "March 25th,2:30PM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "FOTA",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "7000000000",
+       "decimals": "18",
+ 
+        "website": "https://fota.io/", 
+        "twitter": "https://twitter.com/fightoftheages", 
+        "telegram": "https://t.me/fota_channel", 
+        "medium": "https://medium.com/search?source=home----------------------------------------&q=Fight+of+the+Ages",
+ 
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "7000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "FOTA is a Triple-A MOBA Game project (based in Singapore) with a fantasy universe inhabited by many races throughout the universe. In the world of FOTA, NFT Technology is optimized so that users can feel the possibility of owning valuable digital assets during the journey.",
+       "earnTokenDetailText": "FOTA is more than just a MOBA game platform, the development team has also introduced economic mechanisms and democracies through the DAO with the vision of turning this Metaverse platform into an ever-more realistic universe through integrating Microsoft Mesh (a Microsoft Corporation branch pioneering in creating the most immersive Metaverse experience).",
+       "vestingSchedule": "10% unlocked 7 days after IDO, then weekly vesting for 12 months (airdrop method)."
    }
   ]
 }
