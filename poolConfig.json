@@ -480,7 +480,7 @@
        "poolContractAddress": "0x7356dc7f0cf15a757cd808be782f36fb0900d270",
        "projectName": "Sugar Kingdom",
        "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugarkingdom+avatar.png",
-       "poolName": "Guaranteed Pool",
+       "poolName": "Nx Alloc Pool",
 
        "salePrice": "1CANDY = 0.09BUSD",
        "IGOStarts": "March 24th,8AM UTC",
@@ -514,7 +514,7 @@
        "poolContractAddress": "0x0115fb22216d3b395613d118e59c3ede162f3505",
        "projectName": " Sugar Kingdom #2",
        "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugarkingdom+avatar.png",
-       "poolName": " Staker FCFS Pool",
+       "poolName": " Public Pool",
 
        "salePrice": "1CANDY = 0.09BUSD",
        "IGOStarts": "March 24th,11:30AM UTC",
@@ -548,7 +548,7 @@
        "poolContractAddress": "0xa20dc514091cd6be5aea0b924d192e9d1a6435b4",
        "projectName": "Fight of the Ages",
        "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/fota.png",
-       "poolName": "Guaranteed Pool",
+       "poolName": "Nx Alloc Pool",
 
        "salePrice": "1FOTA = 0.15BUSD",
        "IGOStarts": "March 25th,8AM UTC",
@@ -582,7 +582,7 @@
        "poolContractAddress": "0xa9458aba7a920076800d4fea0947177e73d688d8",
        "projectName": " Fight of the Ages #2",
        "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/fota.png",
-       "poolName": " Staker FCFS Pool",
+       "poolName": " Public Pool",
 
        "salePrice": "1FOTA = 0.15BUSD",
        "IGOStarts": "March 25th,11:30AM UTC",
