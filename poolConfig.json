@@ -237,6 +237,40 @@
        "earnTokenIntroduce": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
        "earnTokenDetailText": "MetaFighter is a skill-based Play-to-Earn fighting game that pays players for their combat expertise while capturing the essence of arcade fighting classics like Street Fighter, Virtua Fighter, and Soul Calibur.",
        "vestingSchedule": "7d initial cliff, then 7.5%, then after 45d distr. over 11 months."
+   },
+     {
+       "poolContractAddress": "0x7356dc7f0cf15a757cd808be782f36fb0900d270",
+       "projectName": "Sugar Kingdom",
+       "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugarkingdom+avatar.png",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "1CANDY = 0.09BUSD",
+       "IGOStarts": "March 24th,8AMUTC",
+       "IGOEnds": "March 24th,11AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "CANDY",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "100000000",
+       "decimals": "18",
+ 
+        "website": "https://www.sugarkingdom.io/", 
+        "twitter": "https://twitter.com/SugarKingdomNFT",
+        "telegram": "https://t.me/+X3rSQ4M1yYVkNTYx", 
+       "medium": "https://medium.com/tag/sugar-kingdom",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "35000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "Sugar Kingdom is not just a game for those who are blockchain users.But it’s a game that could introduce blockchain to millions of players.",
+       "earnTokenDetailText": "Besides enjoying an addictive and immersive gameplay, players are the real owners of the items inside the game, and they are able to exchange them with other players and obtain real, attractive and significant rewards according to their total play time. Later, they can invest these earnings in the different economic systems that coexist within the platform. ",
+       "vestingSchedule": "6% at TGE, 4 months cliff, then 12% per month."
    }
   ]
 }
