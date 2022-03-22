@@ -549,7 +549,7 @@
        "poolContractAddress": "0x0115fb22216d3b395613d118e59c3ede162f3505",
        "projectName": " Sugar Kingdom #2",
        "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/sugarkingdom/sugarkingdom+avatar.png",
-       "poolName": "FCFS Pool",
+       "poolName": " Staker FCFS Pool",
 
        "salePrice": "1CANDY = 0.09BUSD",
        "IGOStarts": "March 24th,11:30AMUTC",
