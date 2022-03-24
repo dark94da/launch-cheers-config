@@ -577,6 +577,40 @@
        "earnTokenIntroduce": "Sugar Kingdom is not just a game for those who are blockchain users.But it’s a game that could introduce blockchain to millions of players.",
        "earnTokenDetailText": "Besides enjoying an addictive and immersive gameplay, players are the real owners of the items inside the game, and they are able to exchange them with other players and obtain real, attractive and significant rewards according to their total play time. Later, they can invest these earnings in the different economic systems that coexist within the platform. ",
        "vestingSchedule": "6% at TGE, 4 months cliff, then 12% per month."
+   },
+     {
+       "poolContractAddress": "0xa910681697c163decbcf0a507f67bfe535dabfb0",
+       "projectName": "Nomad Exiles",
+       "logoUrl": "https://pbs.twimg.com/profile_images/1447597919805263881/CHYWVY56_400x400.jpg",
+       "poolName": " Guaranteed Pool",
+
+       "salePrice": "1PRIDE = 0.1BUSD",
+       "IGOStarts": "March 25th,8:00AM UTC",
+       "IGOEnds": "March 25th,11:00AM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "PRIDE",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "100000000",
+       "decimals": "18",
+ 
+        "website": "https://pridemetaverse.io/", 
+        "twitter": "https://twitter.com/NomadExiles",
+        "telegram": "https://t.me/NomadExilesChat", 
+       "medium": "https://medium.com/search/posts?q=Nomad+Exiles&source=search_publication----------------------------------------",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "100000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "NOMAD EXILES IS AN EXCITING CRYPTO RPG GAME WITH THE INTEGRATED NFTS AND FREE-TO-PLAY MECHANICS!",
+       "earnTokenDetailText": "NOMAD EXILES IS AN EXCITING CRYPTO RPG GAME WITH THE INTEGRATED NFTS AND FREE-TO-PLAY MECHANICS! ",
+       "vestingSchedule": "10% at TGE and 10% at each following month."
    }
 
   ]
