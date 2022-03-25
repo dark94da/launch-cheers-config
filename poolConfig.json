@@ -621,7 +621,7 @@
 
        "salePrice": "1PRIDE = 0.1BUSD",
        "IGOStarts": "March 25th,3:00PM UTC",
-       "IGOEnds": "March 25th,7:00PM UTC",
+       "IGOEnds": "March 28th,0:00PM UTC",
        "ClaimStarts": "TBA",
  
        "network": "BSC",
@@ -640,7 +640,7 @@
        "isDisplayClaim": false,
        "isDisplayRefund": false,
        "tokenDistribution": "Airdrop",
-       "hardCap": "100000",
+       "hardCap": "73735",
        "accessType": "Open to all",
  
        "earnTokenIntroduce": "NOMAD EXILES IS AN EXCITING CRYPTO RPG GAME WITH THE INTEGRATED NFTS AND FREE-TO-PLAY MECHANICS!",
