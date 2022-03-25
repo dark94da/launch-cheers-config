@@ -611,7 +611,76 @@
        "earnTokenIntroduce": "FOTA is a Triple-A MOBA Game project (based in Singapore) with a fantasy universe inhabited by many races throughout the universe. In the world of FOTA, NFT Technology is optimized so that users can feel the possibility of owning valuable digital assets during the journey.",
        "earnTokenDetailText": "FOTA is more than just a MOBA game platform, the development team has also introduced economic mechanisms and democracies through the DAO with the vision of turning this Metaverse platform into an ever-more realistic universe through integrating Microsoft Mesh (a Microsoft Corporation branch pioneering in creating the most immersive Metaverse experience).",
        "vestingSchedule": "10% unlocked 7 days after IDO, then weekly vesting for 12 months (airdrop method)."
+   },
+     {
+       "poolContractAddress": "0x3cb14c1722c6dd97a64b10c00924911ca6aaa63d",
+       "projectName": "Nomad Exiles #2",
+       "logoUrl": "https://pbs.twimg.com/profile_images/1447597919805263881/CHYWVY56_400x400.jpg",
+       "poolName": "Staker FCFS Pool",
+
+       "salePrice": "1PRIDE = 0.1BUSD",
+       "IGOStarts": "March 25th,11:30AM UTC",
+       "IGOEnds": "March 25th,2:30PM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "PRIDE",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "100000000",
+       "decimals": "18",
+ 
+        "website": "https://pridemetaverse.io/", 
+        "twitter": "https://twitter.com/NomadExiles",
+        "telegram": "https://t.me/NomadExilesChat", 
+       "medium": "https://medium.com/search/posts?q=Nomad+Exiles&source=search_publication----------------------------------------",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "100000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "NOMAD EXILES IS AN EXCITING CRYPTO RPG GAME WITH THE INTEGRATED NFTS AND FREE-TO-PLAY MECHANICS!",
+       "earnTokenDetailText": "NOMAD EXILES IS AN EXCITING CRYPTO RPG GAME WITH THE INTEGRATED NFTS AND FREE-TO-PLAY MECHANICS! ",
+       "vestingSchedule": "10% at TGE and 10% at each following month."
+   },
+ {
+       "poolContractAddress": "0xf0f4e1a75758b6a281f5cf8db72a1fdf8686103c",
+       "projectName": "Nomad Exiles #3",
+       "logoUrl": "https://pbs.twimg.com/profile_images/1447597919805263881/CHYWVY56_400x400.jpg",
+       "poolName": "Open to all Pool",
+
+       "salePrice": "1PRIDE = 0.1BUSD",
+       "IGOStarts": "March 25th,3:00PM UTC",
+       "IGOEnds": "March 25th,7:00PM UTC",
+       "ClaimStarts": "TBA",
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "PRIDE",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "100000000",
+       "decimals": "18",
+ 
+        "website": "https://pridemetaverse.io/", 
+        "twitter": "https://twitter.com/NomadExiles",
+        "telegram": "https://t.me/NomadExilesChat", 
+       "medium": "https://medium.com/search/posts?q=Nomad+Exiles&source=search_publication----------------------------------------",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "100000",
+       "accessType": "Open to all",
+ 
+       "earnTokenIntroduce": "NOMAD EXILES IS AN EXCITING CRYPTO RPG GAME WITH THE INTEGRATED NFTS AND FREE-TO-PLAY MECHANICS!",
+       "earnTokenDetailText": "NOMAD EXILES IS AN EXCITING CRYPTO RPG GAME WITH THE INTEGRATED NFTS AND FREE-TO-PLAY MECHANICS! ",
+       "vestingSchedule": "10% at TGE and 10% at each following month."
    }
+
 
   ]
 }
