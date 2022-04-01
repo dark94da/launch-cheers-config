@@ -684,7 +684,7 @@
       {
        "poolContractAddress": "0xdf91ec7d9e01e0392eee6476c85e355fc8eaeb92",
        "projectName": "Shoefy sNFT INO",
-       "logoUrl": "https://i.ibb.co/hR6JCB2/shoefylogo.png",
+       "logoUrl": "https://trustfi.s3.ap-southeast-1.amazonaws.com/images/shoefy/shoefy.jpg",
        "poolName": "Shoefy sNFT INO Pool",
 
        "salePrice": "1sNFT = 750BUSD",
