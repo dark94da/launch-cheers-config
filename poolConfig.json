@@ -688,8 +688,8 @@
        "poolName": "Shoefy sNFT INO Pool",
 
        "salePrice": "1sNFT = 750BUSD",
-       "IGOStarts": "April 4th,1PM UTC",
-       "IGOEnds": "April 10th,1PM UTC",
+       "IGOStarts": "April 4th,8AM UTC",
+       "IGOEnds": "April 11th,8AM UTC",
        "ClaimStarts": "TBA",
        "minPricePerToken": "750",
  
