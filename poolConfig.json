@@ -715,6 +715,41 @@
        "earnTokenIntroduce": "Our vision is to provide a suite of DeFi utilities for NFTs with Yield farming, and liquidity mining opportunities for NFTs like never before, aligned with our Play 2 Earn Game and Shoeverse Metaverse, and brand collaborations.",
        "earnTokenDetailText": "The genesis holders will have the following benefits and more: + Genesis sNFT holders to be airdropped 1 Racecraft (rNFT)/Car NFT worth 0.2 Eth. + Enter the Shoeverse with wearable digital shoes. + Holders of sNFTs will also earn HIGH APY rewards in $SHOE by staking sNFTs. Our vision is to provide a suite of DeFi utilities for NFTs with Yield farming, and liquidity mining opportunities for NFTs like never before, aligned with our Play 2 Earn Game and Shoeverse Metaverse, and brand collaborations. ",
        "vestingSchedule": "TBA"
+    },
+    {
+       "poolContractAddress": "0x7fa6cc80b8fcee702c6b644ce8f225d7ef9abf46",
+       "projectName": "Legion Network",
+       "logoUrl": "https://pbs.twimg.com/profile_images/1438681118526558216/JWzpCTdg_400x400.jpg",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "1LGX= 0.075BUSD",
+       "IGOStarts": "April 14th,8AM UTC",
+       "IGOEnds": "April 14th,11AM UTC",
+       "ClaimStarts": "TBA",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "LGX",
+       "earnTokenAddress": "TBA",
+       "totalSupply": "100000000",
+       "decimals": "18",
+ 
+        "website": "https://legionnetwork.io/", 
+        "twitter": "https://twitter.com/LegionNetwork__", 
+        "telegram": "https://t.me/legionnetworkcommunity", 
+        "medium": "https://legionnetwork.medium.com/",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "25000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "Legion Network is the world's largest crypto SuperApp that combines NFT’s, Metaverse, Play2Earn, Watch2Earn all within a SuperApp. ",
+       "earnTokenDetailText": "Legion Network is the world's largest crypto SuperApp that combines NFT’s, Metaverse, Play2Earn, Watch2Earn all within a SuperApp. ",
+       "vestingSchedule": "10% at TGE, 15% uncloked each month"
     }
 
 
