@@ -785,7 +785,43 @@
        "earnTokenIntroduce": "Legion Network is the world's largest crypto SuperApp that combines NFT’s, Metaverse, Play2Earn, Watch2Earn all within a SuperApp. ",
        "earnTokenDetailText": "Legion Network is the world's largest crypto SuperApp that combines NFT’s, Metaverse, Play2Earn, Watch2Earn all within a SuperApp. ",
        "vestingSchedule": "10% at TGE, 15% uncloked each month"
+    },
+    {
+       "poolContractAddress": "0xd5b2110defbf135fad329df3c172d8f09118d067",
+       "projectName": "MultiversePad",
+       "logoUrl": "https://pbs.twimg.com/profile_images/1486008901376311297/DDgs8Jez_400x400.png",
+       "poolName": "Guaranteed Pool",
+
+       "salePrice": "1MTVP= 0.02BUSD",
+       "IGOStarts": "April 21th,8:00AM UTC",
+       "IGOEnds": "April 21th,11:00AM UTC",
+       "ClaimStarts": "TBA",
+    
+ 
+       "network": "BSC",
+       "stakeTokenName": "BUSD",
+       "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+       "earnTokenName": "MTVP",
+       "earnTokenAddress": "0x64d2906391a82721BB24925fc16A3EfF20c8756e",
+       "totalSupply": "1000000000",
+       "decimals": "18",
+ 
+        "website": "https://multiversepad.com/", 
+        "twitter": "https://twitter.com/MultiversePad", 
+        "telegram": "https://t.me/MultiversePadCommunity", 
+        "medium": "https://medium.com/search/posts?q=MultiversePad&source=search_post-------------------------------------",
+ 
+       "isDisplayClaim": false,
+       "isDisplayRefund": false,
+       "tokenDistribution": "Airdrop",
+       "hardCap": "50000",
+       "accessType": "Whitelist",
+ 
+       "earnTokenIntroduce": "MultiversePad A Multichain & Cross-Chain Decentralized All-In-One Platform To Include AMM, Farming, Lending, Launchpad, NFT, and More.",
+       "earnTokenDetailText": "The MTVP token is the native asset of the MultiversePad project. It exists primarily as a BEP-20 token on the Binance Blockchain for now, but will be introduced on the Polygon blockchain soon. It is required for:• Transactional activity on the network• As a staking collateral• For staking rewards• For participation in the Launchpad IDOs • Base asset for cross-chain swaps• For lending and prediction purposes MultiversePad platform modules include: • MultiversePad Farming - a unique deflationary farming, which doesn't rely on inflation to reward stakers, but rather takes parts of every transaction as a deposit for the staking rewards pools. A certain part of every transaction is burned too. • MultiversePad Launchpad - an Initial Decentralized Offering (IDO) platform, designed to incubate promising projects and to allow MTVP holders to participate in early stage investment opportunities and with a guaranteed allocation. • Multichain & Cross-Chain universe Supported Ethereum, BSC, Harmony, Polygon, Solana. • Deflationary mechanism 0.4% amount for farmer rewards and 0.1% will be burned. • Launchpad participation Fair-tiered System. • Guaranteed allocation for all tiers.",
+       "vestingSchedule": "25% at listing then unlocked 6% each week"
     }
+
 
 
   ]
