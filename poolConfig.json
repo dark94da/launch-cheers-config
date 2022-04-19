@@ -787,7 +787,7 @@
        "vestingSchedule": "10% at TGE, 15% uncloked each month"
     },
     {
-       "poolContractAddress": "0xd5b2110defbf135fad329df3c172d8f09118d067",
+       "poolContractAddress": "0x242f0147870c73d10b8c6cef37ea828fbcae7341",
        "projectName": "MultiversePad",
        "logoUrl": "https://cheersland.s3.ap-southeast-1.amazonaws.com/docs/cheersland+pic/multiversepad.png",
        "poolName": "Guaranteed Pool",
@@ -803,7 +803,7 @@
        "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
        "earnTokenName": "MTVP",
        "earnTokenAddress": "0x64d2906391a82721BB24925fc16A3EfF20c8756e",
-       "totalSupply": "1000000000",
+       "totalSupply": "2000000000",
        "decimals": "18",
  
         "website": "https://multiversepad.com/", 
@@ -822,7 +822,7 @@
        "vestingSchedule": "25% at listing then unlocked 6% each week"
     },
     {
-       "poolContractAddress": "0xb47e668af0a01f81a576cfa20a2578120a8839a7",
+       "poolContractAddress": "0x5c1c695da833836601934b875765efdf3b616382",
        "projectName": "MetaChess",
        "logoUrl": "https://pbs.twimg.com/profile_images/1473017510928732169/lp_8RQgB_400x400.jpg",
        "poolName": "Guaranteed Pool",
@@ -838,7 +838,7 @@
        "stakeTokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
        "earnTokenName": "SHAH",
        "earnTokenAddress": "TBA",
-       "totalSupply": "1000000000",
+       "totalSupply": "3000000000",
        "decimals": "18",
  
         "website": "https://metachess.network", 
